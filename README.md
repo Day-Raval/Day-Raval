@@ -14,7 +14,7 @@
 - 📫 How to reach me **dayesh.raval@gmail.com**
   
 
-<h1 align="left">The following highlights the skillset i possess in my field:-</h1>
+<h1 align="center">The following highlights the skillset i possess in my field:-</h1>
 
 <h2 align="left">Programming Languages:</h2>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
