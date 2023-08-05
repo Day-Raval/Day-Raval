@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=day-raval&label=Profile%20views&color=0e75b6&style=flat" alt="day-raval" /> </p>
 
-- 🌱 I’m currently learning **Database Modelling & Processing in MongoDB, Apache Spark, Hadoop**
+- 🌱 I’m currently learning **- Database Modelling & Processing in MongoDB, Apache Spark, Hadoop**
 
 - 📫 How to reach me **dayesh.raval@gmail.com**
 
