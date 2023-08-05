@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dayesh Raval</h1>
 <h3 align="center">An Aspiring, Passionate full-stack Data Scientist from India</h3>
 
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=day-raval&show_icons=true&locale=en" alt="day-raval" /></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=day-raval&label=Profile%20views&color=0e75b6&style=flat" alt="day-raval" /> </p>
 
 - 🌱 I’m currently learning **- Database Modelling & Processing in MongoDB, Apache Spark, Hadoop**
 
 - 📫 How to reach me **dayesh.raval@gmail.com**
-
-
-  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=day-raval&show_icons=true&locale=en" alt="day-raval" /></p>
-
   
 
 <h1 align="left">The following highlights the skillset i possess in my field:-</h1>
