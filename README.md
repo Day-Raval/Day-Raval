@@ -7,7 +7,10 @@
 
 - 📫 How to reach me **dayesh.raval@gmail.com**
 
-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=day-raval&show_icons=true&locale=en" alt="day-raval" /></p>
+
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=day-raval&show_icons=true&locale=en" alt="day-raval" /></p>
+
+  
 
 <h1 align="left">The following highlights the skillset i possess in my field:-</h1>
 
