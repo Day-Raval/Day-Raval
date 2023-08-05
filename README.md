@@ -8,7 +8,7 @@
 - 📫 How to reach me **dayesh.raval@gmail.com**
 
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=day-raval&show_icons=true&locale=en" alt="day-raval" /></p>
+  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=day-raval&show_icons=true&locale=en" alt="day-raval" /></p>
 
   
 
