@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dayesh Raval</h1>
 <h3 align="center">An Aspiring, Passionate full-stack Data Scientist from India</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=day-raval&show_icons=true&locale=en" alt="day-raval" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=day-raval&show_icons=true&locale=en" alt="day-raval" /></p>
 
 
 
