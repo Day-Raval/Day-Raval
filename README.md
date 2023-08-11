@@ -9,7 +9,8 @@
 
 
 
-- 🌱 I’m currently learning **- Database Modelling & Processing in MongoDB, Apache Spark, Hadoop**
+- 🌱 I’m currently learning **- Data Modelling & Database Management in MongoDB, followed by Apache Spark, Hadoop for Big   
+      Data Analytics**
 
 - 📫 How to reach me **dayesh.raval@gmail.com**
   
