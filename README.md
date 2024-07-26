@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=day-raval&label=Profile%20views&color=0e75b6&style=flat" alt="day-raval" /> </p>
 
 
-- 🌱 I’m currently learnng advanced concepts in **Data Modelling, Database Management in MongoDB, with Big Data Analytics in Apache Spark, Apache Hadoop**
+- 🌱 I’m currently learnng advanced concepts in **GPU computing with CUDA, Database Engineering with Big Data Analytics in Sqoop, Hive, Apache Spark, Apache Hadoop etc...**
 
 - 📫 How to reach me **dayesh.raval@gmail.com**
   
