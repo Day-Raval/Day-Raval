@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learnng advanced concepts in **GPU computing with CUDA, Database Engineering with Big Data Analytics in Sqoop, Hive, Apache Spark, Apache Hadoop etc...**
 
-- 📫 How to reach me **dayesh.raval@gmail.com**
+- 📫 How to reach me **ravaldayesh@gmail.com**
   
 
 <h1 align="center">My Relevant Skillsets:-</h1>
