@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=day-raval&label=Profile%20views&color=0e75b6&style=flat" alt="day-raval" /> </p>
 
 
-- 🌱 I’m currently learning advanced concepts in **GPU computing with CUDA, Database Engineering with Big Data Analytics in Sqoop, Hive, Apache Spark, Apache Hadoop etc...**ii
+- 🌱 I’m currently exploring concepts in **GPU computing with CUDA, Database Engineering with Big Data Analytics in Sqoop, Hive, Apache Spark, Apache Hadoop etc**
 
 - 📫 How to reach me **ravaldayesh@gmail.com**
   
