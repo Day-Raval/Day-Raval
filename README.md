@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dayesh Raval</h1>
 <h3 align="center">An Aspiring, Passionate Machine Learning Engineer from India</h3>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=day-raval&show_icons=true&locale=en" alt="day-raval" /></p>
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=day-raval&label=Profile%20views&color=0e75b6&style=flat" alt="day-raval" /> </p>
 
 
-- 🌱 I’m currently learnng advanced concepts in **GPU computing with CUDA, Database Engineering with Big Data Analytics in Sqoop, Hive, Apache Spark, Apache Hadoop etc...**
+- 🌱 I’m currently learning advanced concepts in **GPU computing with CUDA, Database Engineering with Big Data Analytics in Sqoop, Hive, Apache Spark, Apache Hadoop etc...**ii
 
 - 📫 How to reach me **ravaldayesh@gmail.com**
   
