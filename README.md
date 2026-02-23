@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dayesh Raval</h1>
-<h3 align="center">Machine Learning Engineer • Data Scientist • Cloud & MLOps Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Data+Scientist;Cloud+%26+MLOps+Enthusiast;ML+Systems+Implementation+(MLSI)+Learner;Parallel+Computing+%26+HPC+Explorer" alt="role roulette" />
+</p>
 
 <p align="center">
   <a href="mailto:ravaldayesh@gmail.com"><img src="https://img.shields.io/badge/Email-ravaldayesh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
@@ -99,6 +101,14 @@ I’m passionate about building **scalable Data + ML systems** from pipeline des
 ---
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Day-Raval&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Day-Raval&theme=tokyonight&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Day-Raval&show_icons=true&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Day-Raval&show_icons=true&theme=default&hide_border=true" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Day-Raval&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Day-Raval&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Day-Raval&theme=default&hide_border=true" />
+    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Day-Raval&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  </picture>
 </p>
