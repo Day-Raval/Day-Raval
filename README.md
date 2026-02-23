@@ -1,40 +1,99 @@
-<h1 align="center">Hi 👋, I'm Dayesh Raval</h1>
-<h3 align="center">An Aspiring, Passionate Machine Learning Engineer from India</h3>
+<h1 align="center">Hi there, I'm Dayesh Raval 👋</h1>
+<h3 align="center">Data Scientist • ML Engineer • Cloud-native MLOps Builder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=day-raval&label=Profile%20views&color=0e75b6&style=flat" alt="day-raval" /> </p>
+<p align="center">
+  <a href="mailto:ravaldayesh@gmail.com"><img src="https://img.shields.io/badge/Email-ravaldayesh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/dayesh-raval/"><img src="https://img.shields.io/badge/LinkedIn-dayesh--raval-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="https://github.com/Day-Raval"><img src="https://img.shields.io/badge/GitHub-Day--Raval-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+</p>
 
+---
 
-- 🌱 I’m currently exploring concepts in **GPU computing with CUDA, Non-Relational Data Management, Advanced Visual Analytics etc**
+## 🚀 About Me
+I build **scalable data + ML systems** from pipeline design to production deployment. My focus is combining distributed data engineering, advanced modeling, and cloud-native MLOps to deliver performant and cost-efficient AI products.
 
-- 📫 How to reach me **ravaldayesh@gmail.com**
-  
+- 🎓 **MS in Data Science @ Rochester Institute of Technology** (GPA: 4.00/4.00, 2024–2026)
+- 🧠 **B.Tech CSE (AI & ML) @ VIT Bhopal University** (GPA: 3.51/4.00)
+- 🌍 Experience across **AWS, GCP, Azure, Kubernetes, distributed PySpark analytics, CV, and GenAI systems**
+- 🔭 Currently building reliable systems for **Fraud AI, Wildlife Detection, and Multi-agent RAG**
 
-<h1 align="center">My Relevant Skillsets:-</h1>
+---
 
-<h2 align="left">Programming Languages:</h2>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 💼 Experience Highlights
 
-<h2 align="left">AI and ML Tools:</h2>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### **Aquila Clouds — Engineering Intern (May 2025 – Aug 2025)**
+- Reduced projected Kubernetes infrastructure waste by **18%** across 1,000+ daily pods.
+- Improved right-sizing recommendation accuracy by **20%** and helped project **$100K+ annual savings**.
+- Built distributed forecasting and utilization analytics with **PySpark + PostgreSQL/MySQL** for cross-cloud workloads.
 
-<h2 align="left">Databases:</h2>
-<p align="left"> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+### **Analytics — Data Science Intern (Aug 2023 – Oct 2023)**
+- Delivered **82%** license plate OCR precision and reduced manual verification time by **35%** using **YOLOv8 + EasyOCR**.
+- Improved difficult-angle plate detection by **12%** via contour-simplification preprocessing.
 
-<h2 align="left">Data Visualizations:</h2>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> </p>
+### **Kore Wireless — ML Intern (Jul 2023 – Sept 2023)**
+- Led R&D efforts to achieve **88% SIM-level threat detection** for NetFlow monitoring.
+- Accelerated enterprise anomaly detection speed by **30%** using **Isolation Forest-based monitoring**.
 
-<h2 align="left">DataOps Tools:</h2>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> </p>
+---
 
-<h2 align="left">Frameworks:</h2>
-<p align="left"> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
+## 🧪 Featured Projects
 
-<h2 align="left">Project Repository:</h2>
-<p align="left">  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+### 🦅 Counting Wildlife from Above (Capstone)
+**Automated Wildlife Detection & Population Monitoring**
+- Improved mAP by **2.2 points** and reduced false positives by **18%** with a scalable **PyTorch Faster R-CNN** pipeline.
+- Processed **42K+ high-resolution UAV images** on HPC infrastructure.
 
+### 🛡️ FinSentry AI
+**FraudOps Intelligence Engine**
+- Reached **0.31 PR-AUC** with improved calibration (+240k data points) and achieved **39% recall@TopK** under alert constraints.
+- Boosted robustness through alert-rate controls and cost-aware threshold optimization.
+
+### 🧠 AstraRAG
+**Multi-agent GenAI system for grounded QA over unstructured knowledge**
+- Built with **CrewAI, Groq, and LlamaIndex**, indexing **80K+ chunks**.
+- Improved answer accuracy by **38%** with **29% fewer hallucinations**.
+- Deployed on **AWS EC2 + FastAPI + Docker** supporting 1K+ daily queries at sub-600ms P95 latency.
+
+---
+
+## 🧰 Tech Stack
+
+### Languages & Core
+`Python` `Java` `C/C++` `SQL` `R` `Git` `Linux/WSL`
+
+### Data Engineering
+`Apache Spark (PySpark)` `Kafka` `Airflow`
+
+### ML / DL / CV
+`Scikit-learn` `Pandas` `NumPy` `PyTorch` `TensorFlow` `HuggingFace Transformers` `OpenCV` `EasyOCR` `CNNs (ResNet, U-Net)`
+
+### Databases
+`PostgreSQL` `MySQL` `MongoDB` `Neo4j` `Redis`
+
+### Cloud / MLOps / Infra
+`AWS` `GCP` `Azure (AKS)` `MLflow` `Docker` `Kubernetes` `Terraform`
+
+### GenAI
+`LLaMA` `RAG` `LangChain` `LlamaIndex` `CrewAI`
+
+### Visualization
+`Tableau` `Matplotlib` `Seaborn` `QGIS` `MATLAB`
+
+---
+
+## 📈 GitHub Snapshot
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Day-Raval&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Day-Raval&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Day-Raval&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+If you're working on impactful data/AI systems, I'd love to collaborate.
+
+📫 **Email:** [ravaldayesh@gmail.com](mailto:ravaldayesh@gmail.com)
