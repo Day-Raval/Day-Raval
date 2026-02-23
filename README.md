@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dayesh Raval</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Data+Scientist;Cloud+%26+MLOps+Enthusiast;ML+Systems+Implementation+(MLSI)+Learner;Parallel+Computing+%26+HPC+Explorer" alt="role roulette" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=900&lines=Data+Scientist;ML+Engineer;MLOps+%26+Cloud" alt="role roulette" />
 </p>
 
 <p align="center">
@@ -101,19 +101,6 @@ I’m passionate about building **scalable Data + ML systems** from pipeline des
 ---
 
 <p align="center">
-  <!-- GitHub dark mode -->
-  <a href="https://github.com/Day-Raval#gh-dark-mode-only">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Day-Raval&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub stats (dark)" />
-  </a>
-  <a href="https://github.com/Day-Raval#gh-dark-mode-only">
-    <img height="170" src="https://streak-stats.demolab.com?user=Day-Raval&theme=tokyonight&hide_border=true" alt="GitHub streak (dark)" />
-  </a>
-
-  <!-- GitHub light mode -->
-  <a href="https://github.com/Day-Raval#gh-light-mode-only">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Day-Raval&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" alt="GitHub stats (light)" />
-  </a>
-  <a href="https://github.com/Day-Raval#gh-light-mode-only">
-    <img height="170" src="https://streak-stats.demolab.com?user=Day-Raval&theme=default&hide_border=true" alt="GitHub streak (light)" />
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Day-Raval&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Day-Raval&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
