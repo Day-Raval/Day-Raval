@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dayesh Raval</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=900&lines=Data+Scientist;ML+Engineer;MLOps+%26+Cloud" alt="role roulette" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=900&lines=Data+Scientist;ML+Engineer;MLOps+%26+Cloud" alt="role roulette" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ I’m passionate about building **scalable Data + ML systems** from pipeline des
 - 🎯 Open to collaborating on ambitious AI, data platform, and systems engineering projects.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+ML+Systems+That+Scale+%F0%9F%9A%80;Learning+Terraform+for+ML+Infrastructure+%E2%98%81%EF%B8%8F;Diving+into+MLSI+%2B+Parallel+Computing+%E2%9A%A1;Exploring+HPC+for+next-gen+AI+workloads+%F0%9F%94%A5" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+ML+Systems+That+Scale+%F0%9F%9A%80;Learning+Terraform+for+ML+Infrastructure+%E2%98%81%EF%B8%8F;Diving+into+MLSI+%2B+Parallel+Computing+%E2%9A%A1;Exploring+HPC+for+next-gen+AI+workloads+%F0%9F%94%A5" alt="typing intro" />
 </p>
 
 ---
@@ -76,7 +76,7 @@ I’m passionate about building **scalable Data + ML systems** from pipeline des
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/></a>
-  <a href="https://mlflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mlflow/mlflow-original.svg" alt="mlflow" width="40" height="40"/></a>
+  <a href="https://mlflow.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="mlflow" height="28"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/></a>
@@ -84,23 +84,22 @@ I’m passionate about building **scalable Data + ML systems** from pipeline des
 
 <h2 align="left">GenAI Stack</h2>
 <p align="left">
-  <a href="https://www.llama.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/meta/meta-icon.svg" alt="llama" width="40" height="40"/></a>
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langchain" width="40" height="40"/></a>
-  <a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/114414287?s=200&v=4" alt="llamaindex" width="40" height="40"/></a>
+  <a href="https://www.llama.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LLaMA-1C1E26?style=for-the-badge&logo=meta&logoColor=white" alt="llama" height="28"/></a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain" height="28"/></a>
+  <a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LlamaIndex-6E56CF?style=for-the-badge&logoColor=white" alt="llamaindex" height="28"/></a>
 </p>
 
 <h2 align="left">Visualization & Analytics</h2>
 <p align="left">
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/></a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="matplotlib" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
-  <a href="https://qgis.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" alt="qgis" width="40" height="40"/></a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau" height="28"/></a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="matplotlib" height="28"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="seaborn" height="28"/></a>
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white" alt="matlab" height="28"/></a>
+  <a href="https://qgis.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="qgis" height="28"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Day-Raval&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub stats" />
   <img height="170" src="https://streak-stats.demolab.com?user=Day-Raval&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
