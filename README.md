@@ -15,32 +15,17 @@
 
 <h2 align="left">About Me</h2>
 
-- 🔭 Building scalable **data + ML systems** from pipeline design to production.
-- 🎓 **MS in Data Science (RIT, 2024–2026)** | GPA: **4.00/4.00**
-- 🧠 **B.Tech CSE - AI & ML (VIT Bhopal, 2020–2024)** | GPA: **3.51/4.00**
-- ☁️ Experienced with **AWS, GCP, Azure, Kubernetes, distributed analytics, CV, and GenAI**.
-- 💡 Interested in **Fraud AI**, **Computer Vision at scale**, and **Multi-agent RAG systems**.
+I’m passionate about building **scalable Data + ML systems** from pipeline design to deployment — blending data engineering, advanced modeling, and cloud-native MLOps to deliver high-impact, production-ready AI.
 
----
+- 🚀 I love turning ideas into reliable ML products that are **fast, cost-aware, and built to scale**.
+- 🧠 Currently deep-diving into **MLSI (Machine Learning Systems Implementation)** and production-grade system design.
+- ☁️ Exploring **Infrastructure for ML**, especially **Terraform-driven reproducible environments** and cloud-native workflows.
+- ⚡ Learning and applying **Parallel Computing** and **HPC** concepts for large-scale model training/inference.
+- 🎯 Open to collaborating on ambitious AI, data platform, and systems engineering projects.
 
-<h2 align="left">Experience Highlights</h2>
-
-- **Aquila Clouds (Engineering Intern, May 2025 – Aug 2025)**<br/>
-  Reduced projected K8s infra waste by **18%**, improved right-sizing accuracy by **20%**, and supported projected savings of **$100K+** using cross-cloud analytics.
-
-- **Analytics (Data Science Intern, Aug 2023 – Oct 2023)**<br/>
-  Delivered **82% OCR precision** with YOLOv8 + EasyOCR and reduced manual verification time by **35%**.
-
-- **Kore Wireless (ML Intern, Jul 2023 – Sept 2023)**<br/>
-  Achieved **88% SIM-level threat detection** and accelerated anomaly detection by **30%** with Isolation Forest-based monitoring.
-
----
-
-<h2 align="left">Featured Projects</h2>
-
-- **Counting Wildlife from Above (Capstone):** Improved mAP by **2.2 points**, reduced false positives by **18%**, and processed **42K+ UAV images** with PyTorch Faster R-CNN.
-- **FinSentry AI (FraudOps Engine):** Achieved **0.31 PR-AUC** and **39% recall@TopK** under real alert constraints through calibration and threshold optimization.
-- **AstraRAG (Multi-agent GenAI):** Indexed **80K+ chunks**, improved grounded QA accuracy by **38%**, reduced hallucinations by **29%**, and deployed for **1K+ daily queries**.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+ML+Systems+That+Scale+%F0%9F%9A%80;Learning+Terraform+for+ML+Infrastructure+%E2%98%81%EF%B8%8F;Diving+into+MLSI+%2B+Parallel+Computing+%E2%9A%A1;Exploring+HPC+for+next-gen+AI+workloads+%F0%9F%94%A5" alt="typing intro" />
+</p>
 
 ---
 
