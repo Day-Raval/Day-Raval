@@ -101,14 +101,19 @@ I’m passionate about building **scalable Data + ML systems** from pipeline des
 ---
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Day-Raval&show_icons=true&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Day-Raval&show_icons=true&theme=default&hide_border=true" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Day-Raval&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Day-Raval&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Day-Raval&theme=default&hide_border=true" />
-    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Day-Raval&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-  </picture>
+  <!-- GitHub dark mode -->
+  <a href="https://github.com/Day-Raval#gh-dark-mode-only">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Day-Raval&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub stats (dark)" />
+  </a>
+  <a href="https://github.com/Day-Raval#gh-dark-mode-only">
+    <img height="170" src="https://streak-stats.demolab.com?user=Day-Raval&theme=tokyonight&hide_border=true" alt="GitHub streak (dark)" />
+  </a>
+
+  <!-- GitHub light mode -->
+  <a href="https://github.com/Day-Raval#gh-light-mode-only">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Day-Raval&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" alt="GitHub stats (light)" />
+  </a>
+  <a href="https://github.com/Day-Raval#gh-light-mode-only">
+    <img height="170" src="https://streak-stats.demolab.com?user=Day-Raval&theme=default&hide_border=true" alt="GitHub streak (light)" />
+  </a>
 </p>
