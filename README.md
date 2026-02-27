@@ -17,7 +17,7 @@
 
 <h2 align="left">About Me</h2>
 
-I’m passionate about building **scalable Data + ML systems** from pipeline design to deployment — blending data engineering, advanced modeling, and cloud-native MLOps to deliver high-impact, production-ready AI.
+I’m passionate about building **scalable Data + AI/ML systems** from pipeline design to deployment — blending data engineering, advanced modeling, and cloud-native MLOps to deliver high-impact, production-ready solutions.
 
 - 🚀 I love turning ideas into reliable ML products that are **fast, cost-aware, and built to scale**.
 - 🧠 Currently deep-diving into **MLSI (Machine Learning Systems Implementation)** and production-grade system design.
