@@ -21,7 +21,7 @@ I’m passionate about building **scalable Data + AI/ML systems** from pipeline 
 
 - 🚀 I love turning ideas into reliable ML products that are **fast, cost-aware, and built to scale**.
 - 🧠 Currently deep-diving into **MLSI (Machine Learning Systems Implementation)** and production-grade system design.
-- ☁️ Exploring **Infrastructure for ML**, especially **Terraform-driven reproducible environments** (with managing Grafana & Prometheus dashboards automatically using infrastructure-as-code for cloud-native workflows).
+- ☁️ Exploring **Infrastructure for ML**, especially **Terraform-driven reproducible environments** for cloud-native workflows.
 - ⚡ Deep-diving into **Parallel Computing** and **HPC** concepts for advance large-scale model training/inference.
 - 🎯 Open to collaborating on ambitious AI, data platform, and systems engineering projects.
 
