@@ -7,8 +7,6 @@
   <a href="mailto:ravaldayesh@gmail.com"><img src="https://img.shields.io/badge/Email-ravaldayesh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
   <a href="https://www.linkedin.com/in/dayesh-raval/"><img src="https://img.shields.io/badge/LinkedIn-dayesh--raval-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
   <a href="https://github.com/Day-Raval"><img src="https://img.shields.io/badge/GitHub-Day--Raval-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
-</p>
-<p align="left">
   <img src="https://komarev.com/ghpvc/?username=day-raval&label=Profile%20Views&color=0e75b6&style=flat" alt="day-raval" />
 </p>
 
@@ -17,6 +15,7 @@
 <h2 align="left">About Me</h2>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+ML+Systems+That+Scale+%F0%9F%9A%80;Learning+Terraform+for+ML+Infrastructure+%E2%98%81%EF%B8%8F;Diving+into+MLSI+%2B+Parallel+Computing+%E2%9A%A1;Exploring+HPC+for+next-gen+AI+workloads+%F0%9F%94%A5" alt="typing intro" />
+
 I’m passionate about building **scalable Data + AI/ML systems** from pipeline design to deployment — blending data engineering, advanced modeling, and cloud-native MLOps to deliver high-impact, production-ready solutions.
 
 - 🚀 I love turning ideas into reliable ML products that are **fast, cost-aware, and built to scale**.
