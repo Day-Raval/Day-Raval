@@ -26,11 +26,7 @@ I’m passionate about building **scalable Data + AI/ML systems** from pipeline 
 - ☁️ Exploring **Infrastructure for ML**, especially **Terraform-driven reproducible environments** for cloud-native workflows.
 - ⚡ Deep-diving into **Parallel Computing** and **HPC** concepts for advance large-scale model training/inference.
 - 🎯 Open to collaborating on ambitious AI, data platform, and systems engineering projects.
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+AI/ML+Systems+That+Scale+%F0%9F%9A%80;Learning+Terraform+for+ML+Infrastructure+Management+%E2%98%81%EF%B8%8F;Diving+into+MLSI+%2B+Parallel+Computing+%E2%9A%A1;Exploring+HPC+for+next-gen+AI+workloads+%F0%9F%94%A5" alt="typing intro" />
-</p>
-
+  
 ---
 
 <h1 align="center">My Relevant Skillsets</h1>
