@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dayesh Raval</h1>
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=900&lines=Data+Scientist;ML+Engineer;MLOps+%26+Cloud" alt="role roulette" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=900&lines=Data+Scientist;AI/ML+Engineer;MLOps+%26+Cloud+Engineer" alt="role roulette" />
 </p>
 
@@ -17,6 +18,16 @@
 
 <h2 align="left">About Me</h2>
 
+I’m passionate about building **scalable Data + ML systems** from pipeline design to deployment — blending data engineering, advanced modeling, and cloud-native MLOps to deliver high-impact, production-ready AI.
+
+- 🚀 I love turning ideas into reliable ML products that are **fast, cost-aware, and built to scale**.
+- 🧠 Currently deep-diving into **MLSI (Machine Learning Systems Implementation)** and production-grade system design.
+- ☁️ Exploring **Infrastructure for ML**, especially **Terraform-driven reproducible environments** and cloud-native workflows.
+- ⚡ Learning and applying **Parallel Computing** and **HPC** concepts for large-scale model training/inference.
+- 🎯 Open to collaborating on ambitious AI, data platform, and systems engineering projects.
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+ML+Systems+That+Scale+%F0%9F%9A%80;Learning+Terraform+for+ML+Infrastructure+%E2%98%81%EF%B8%8F;Diving+into+MLSI+%2B+Parallel+Computing+%E2%9A%A1;Exploring+HPC+for+next-gen+AI+workloads+%F0%9F%94%A5" alt="typing intro" />
 I’m passionate about building **scalable Data + AI/ML systems** from pipeline design to deployment — blending data engineering, advanced modeling, and cloud-native MLOps to deliver high-impact, production-ready solutions.
 
 - 🚀 I love turning ideas into reliable ML products that are **fast, cost-aware, and built to scale**.
@@ -84,6 +95,8 @@ I’m passionate about building **scalable Data + AI/ML systems** from pipeline 
 
 <h2 align="left">GenAI Stack</h2>
 <p align="left">
+  <a href="https://www.anthropic.com/claude" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logoColor=white" alt="claude" height="28"/></a>
+  <a href="https://www.anthropic.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logoColor=white" alt="anthropic" height="28"/></a>
   <a href="https://www.llama.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LLaMA-1C1E26?style=for-the-badge&logo=meta&logoColor=white" alt="llama" height="28"/></a>
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain" height="28"/></a>
   <a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LlamaIndex-6E56CF?style=for-the-badge&logoColor=white" alt="llamaindex" height="28"/></a>
