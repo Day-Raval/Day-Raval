@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dayesh Raval</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=900&lines=Data+Scientist;ML+Engineer;MLOps+%26+Cloud" alt="role roulette" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=900&lines=Data+Scientist;AI/ML+Engineer;MLOps+%26+Cloud+Engineer" alt="role roulette" />
 </p>
 
 <p align="center">
@@ -9,7 +8,6 @@
   <a href="https://www.linkedin.com/in/dayesh-raval/"><img src="https://img.shields.io/badge/LinkedIn-dayesh--raval-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
   <a href="https://github.com/Day-Raval"><img src="https://img.shields.io/badge/GitHub-Day--Raval-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
 </p>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=day-raval&label=Profile%20Views&color=0e75b6&style=flat" alt="day-raval" />
 </p>
@@ -35,10 +33,6 @@ I’m passionate about building **scalable Data + AI/ML systems** from pipeline 
 - ☁️ Exploring **Infrastructure for ML**, especially **Terraform-driven reproducible environments** for cloud-native workflows.
 - ⚡ Deep-diving into **Parallel Computing** and **HPC** concepts for advance large-scale model training/inference.
 - 🎯 Open to collaborating on ambitious AI, data platform, and systems engineering projects.
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+AI/ML+Systems+That+Scale+%F0%9F%9A%80;Learning+Terraform+for+ML+Infrastructure+Management+%E2%98%81%EF%B8%8F;Diving+into+MLSI+%2B+Parallel+Computing+%E2%9A%A1;Exploring+HPC+for+next-gen+AI+workloads+%F0%9F%94%A5" alt="typing intro" />
-</p>
 
 ---
 
