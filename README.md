@@ -7,25 +7,17 @@
   <a href="mailto:ravaldayesh@gmail.com"><img src="https://img.shields.io/badge/Email-ravaldayesh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
   <a href="https://www.linkedin.com/in/dayesh-raval/"><img src="https://img.shields.io/badge/LinkedIn-dayesh--raval-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
   <a href="https://github.com/Day-Raval"><img src="https://img.shields.io/badge/GitHub-Day--Raval-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
-  <img src="https://komarev.com/ghpvc/?username=day-raval&label=Profile%20Views&color=0e75b6&style=flat" alt="day-raval" />
-</p>
 
 ---
 
 <h2 align="left">About Me</h2>
-<p>I'm an AI/ML Engineer focused on building production-minded AI applications: connecting models and LLM workflows to reliable APIs, data and retrieval pipelines, user-facing tools, and the operational systems needed to run and monitor them. I approach AI as part of business infrastructure, with attention to integration, reliability, security, and maintainability—not just model output.</p>
+<p>I'm a data science and AI/ML professional who turns complex data and emerging AI capabilities into reliable, useful solutions. My work spans the full lifecycle—from data analysis, feature engineering, and statistical and machine-learning modeling to LLM applications, APIs, deployment, and monitoring.</p>
 
-<p>I'm especially interested in enterprise and healthcare applications, where useful AI must fit real workflows and be designed with privacy, access control, auditability, explainability, and appropriate human oversight in mind. I value clear boundaries around what an AI system can do, how its outputs are checked, and how it behaves when evidence or confidence is insufficient.</p>
+<p>Production and business-infrastructure mindset to AI: solutions should integrate with real workflows and be reliable, secure, maintainable, and measurable. I'm particularly interested in enterprise and healthcare systems, where privacy, access control, auditability, explainability, and human oversight are essential.</p>
 
-<p><strong>What I'm building toward:</strong></p>
-<ul>
-  <li><strong>AI evaluations:</strong> task-specific test sets and repeatable evaluations for model quality, retrieval relevance, groundedness, fairness, and regressions.</li>
-  <li><strong>Practical guardrails:</strong> layered input and output validation, evidence-aware responses, scoped tool access, safe fallbacks, human review, and privacy-conscious observability.</li>
-  <li><strong>Reusable agent skills:</strong> focused, well-documented capabilities with clear input/output contracts, dependable tools, and tests that make agent workflows easier to inspect and maintain.</li>
-  <li><strong>Production readiness:</strong> improving monitoring, traceability, latency and cost awareness, and feedback loops so AI features can be operated and improved responsibly.</li>
-</ul>
+<p><strong>Current growth areas:</strong> strengthening the full AI delivery lifecycle—from evaluating model quality, retrieval, fairness, and regressions, to applying those insights through practical guardrails and reusable, well-tested agent skills. I'm also deepening my foundations in Machine Learning Systems Implementation (MLSI), while advancing the observability, traceability, and cost-aware operations needed to run AI systems reliably at scale.</p>
 
-<p>I'm currently seeking AI/ML Engineer opportunities where I can help deliver dependable AI products for real business needs, especially in enterprise and healthcare settings.</p>
+<p>Open to Data Science, Machine Learning, and AI/ML Engineering opportunities building responsible, production-ready solutions.</p>
 
 ---
 
