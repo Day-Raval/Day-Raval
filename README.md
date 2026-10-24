@@ -18,7 +18,7 @@
 
 <hr/>
 
-<h3>How I approach technology</h3>
+<h3>How I approach</h3>
 <p>I start with the <strong>problem, people, and business context</strong>, then apply the right mix of data science, machine learning, and AI. From analysis and predictive models to LLMs and agentic workflows, I aim to build solutions that fit real workflows and are <strong>reliable, secure, maintainable, and measurable</strong>. I value responsible design—including privacy, access control, explainability, and human oversight—especially in high-impact settings.</p>
 
 <hr/>
