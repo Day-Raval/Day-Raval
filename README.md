@@ -10,31 +10,31 @@
 
 ---
 
-<h2 align="center">About Me</h2>
-<p align="center"><strong>Data Science&nbsp; • &nbsp;Machine Learning&nbsp; • &nbsp;AI Engineering</strong></p>
+<h2 align="center">✨ About Me ✨</h2>
+<p align="center"><strong>📊 Data Science &nbsp;•&nbsp; 🤖 Machine Learning &nbsp;•&nbsp; 🛠️ AI Engineering</strong></p>
 
-<h3>What I bring</h3>
+<h3>💡 What I bring</h3>
 <p>I'm a <strong>technology professional working across data science, machine learning, and AI engineering</strong>. I turn complex problems into <strong>actionable insights and useful products</strong>, combining analytics, statistical learning, and modern AI with the engineering needed to deliver solutions through applications, APIs, and production systems.</p>
 
 <hr/>
 
-<h3>How I approach</h3>
+<h3>🧭 How I approach problems</h3>
 <p>I start with the <strong>problem, people, and business context</strong>, then apply the right mix of data science, machine learning, and AI. From analysis and predictive models to LLMs and agentic workflows, I aim to build solutions that fit real workflows and are <strong>reliable, secure, maintainable, and measurable</strong>. I value responsible design—including privacy, access control, explainability, and human oversight—especially in high-impact settings.</p>
 
 <hr/>
 
-<h3>How I'm growing</h3>
+<h3>🌱 How I'm growing</h3>
 <p>I'm strengthening the full path from sound methods to dependable systems:</p>
 <ul>
-  <li>🧪 <strong>Measure and improve:</strong> evaluate model quality, retrieval, fairness, and regressions; use evidence to guide practical safeguards.</li>
+  <li>🔬 <strong>Measure and improve:</strong> evaluate model quality, retrieval, fairness, and regressions; use evidence to guide practical safeguards.</li>
   <li>🧩 <strong>Build useful intelligent workflows:</strong> develop reusable, well-tested agent skills and dependable tool-driven systems.</li>
   <li>⚙️ <strong>Scale the foundations:</strong> deepen my knowledge of Machine Learning Systems Implementation (MLSI), parallel computing, and HPC for large workloads.</li>
-  <li>📈 <strong>Deliver and operate well:</strong> strengthen observability, traceability, and cost-aware practices for reliable production systems.</li>
+  <li>🚀 <strong>Deliver and operate well:</strong> strengthen observability, traceability, and cost-aware practices for reliable production systems.</li>
 </ul>
 
 <hr/>
 
-<p align="center">🤝 <strong>Open to Data Science, Machine Learning, and AI/ML Engineering opportunities</strong><br/>Let's build useful, responsible, production-ready technology.</p>
+<p align="center">🤝 <strong>Open to Data Science, Machine Learning, and AI/ML Engineering opportunities</strong><br/>Let's build useful, responsible, production-ready technology. ✨</p>
 
 ---
 
