@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dayesh Raval</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=900&lines=Data+Scientist;ML+Engineer;MLOps+%26+Cloud" alt="role roulette" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Applied+Machine+Learning;Generative+AI+%26+RAG;ML+Systems+%26+MLOps" alt="AI/ML engineering focus" />
 </p>
 
 <p align="center">
@@ -13,16 +13,19 @@
 ---
 
 <h2 align="left">About Me</h2>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+ML+Systems+That+Scale+%F0%9F%9A%80;Learning+Terraform+for+ML+Infrastructure+%E2%98%81%EF%B8%8F;Diving+into+MLSI+%2B+Parallel+Computing+%E2%9A%A1;Exploring+HPC+for+next-gen+AI+workloads+%F0%9F%94%A5" alt="typing intro" />
+<p>I'm an AI/ML Engineer focused on building production-minded AI applications: connecting models and LLM workflows to reliable APIs, data and retrieval pipelines, user-facing tools, and the operational systems needed to run and monitor them. I approach AI as part of business infrastructure, with attention to integration, reliability, security, and maintainability—not just model output.</p>
 
-I’m passionate about building **scalable Data + AI/ML systems** from pipeline design to deployment — blending data engineering, advanced modeling, and cloud-native MLOps to deliver high-impact, production-ready solutions.
+<p>I'm especially interested in enterprise and healthcare applications, where useful AI must fit real workflows and be designed with privacy, access control, auditability, explainability, and appropriate human oversight in mind. I value clear boundaries around what an AI system can do, how its outputs are checked, and how it behaves when evidence or confidence is insufficient.</p>
 
-- 🚀 I love turning ideas into reliable ML products that are **fast, cost-aware, and built to scale**.
-- 🧠 Currently deep-diving into **MLSI (Machine Learning Systems Implementation)** and production-grade system design.
-- ☁️ Exploring **Infrastructure for ML**, especially **Terraform-driven reproducible environments** for cloud-native workflows.
-- ⚡ Deep-diving into **Parallel Computing** and **HPC** concepts for advance large-scale model training/inference.
-- 🎯 Open to collaborating on ambitious AI, data platform, and systems engineering projects.
+<p><strong>What I'm building toward:</strong></p>
+<ul>
+  <li><strong>AI evaluations:</strong> task-specific test sets and repeatable evaluations for model quality, retrieval relevance, groundedness, fairness, and regressions.</li>
+  <li><strong>Practical guardrails:</strong> layered input and output validation, evidence-aware responses, scoped tool access, safe fallbacks, human review, and privacy-conscious observability.</li>
+  <li><strong>Reusable agent skills:</strong> focused, well-documented capabilities with clear input/output contracts, dependable tools, and tests that make agent workflows easier to inspect and maintain.</li>
+  <li><strong>Production readiness:</strong> improving monitoring, traceability, latency and cost awareness, and feedback loops so AI features can be operated and improved responsibly.</li>
+</ul>
+
+<p>I'm currently seeking AI/ML Engineer opportunities where I can help deliver dependable AI products for real business needs, especially in enterprise and healthcare settings.</p>
 
 ---
 
@@ -31,12 +34,20 @@ I’m passionate about building **scalable Data + AI/ML systems** from pipeline 
 <h2 align="left">Programming Languages</h2>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
   <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+</p>
+
+<h2 align="left">Backend & Frontend Development</h2>
+<p align="left">
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi" height="28"/></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" height="28"/></a>
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="streamlit" height="28"/></a>
 </p>
 
 <h2 align="left">Data Engineering & Streaming</h2>
@@ -75,6 +86,9 @@ I’m passionate about building **scalable Data + AI/ML systems** from pipeline 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/></a>
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="prometheus" height="28"/></a>
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="grafana" height="28"/></a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="github actions" height="28"/></a>
 </p>
 
 <h2 align="left">GenAI Stack</h2>
@@ -83,7 +97,11 @@ I’m passionate about building **scalable Data + AI/ML systems** from pipeline 
   <a href="https://www.anthropic.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logoColor=white" alt="anthropic" height="28"/></a>
   <a href="https://www.llama.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LLaMA-1C1E26?style=for-the-badge&logo=meta&logoColor=white" alt="llama" height="28"/></a>
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain" height="28"/></a>
+  <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langgraph" height="28"/></a>
   <a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LlamaIndex-6E56CF?style=for-the-badge&logoColor=white" alt="llamaindex" height="28"/></a>
+  <a href="https://www.crewai.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CrewAI-202020?style=for-the-badge&logoColor=white" alt="crewai" height="28"/></a>
+  <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logoColor=white" alt="chromadb" height="28"/></a>
+  <a href="https://groq.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" alt="groq" height="28"/></a>
 </p>
 
 <h2 align="left">Visualization & Analytics</h2>
