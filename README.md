@@ -10,20 +10,31 @@
 
 ---
 
-<h2 align="left">About Me</h2>
-<p>I'm a data science and AI/ML professional who turns complex data and emerging AI capabilities into reliable, useful solutions. My work spans the full lifecycle—from data analysis, feature engineering, and statistical and machine-learning modeling to LLM applications, APIs, deployment, and monitoring.</p>
+<h2 align="center">About Me</h2>
+<p align="center"><strong>Data Science&nbsp; • &nbsp;Machine Learning&nbsp; • &nbsp;AI Engineering</strong></p>
 
-<p>Production and business-infrastructure mindset to AI: solutions should integrate with real workflows and be reliable, secure, maintainable, and measurable. I'm particularly interested in enterprise and healthcare systems, where privacy, access control, auditability, explainability, and human oversight are essential.</p>
+<p>I'm a <strong>Data Science and AI/ML professional</strong> who turns complex data and emerging AI into <strong>reliable, useful solutions</strong>. My work spans the lifecycle—from <strong>analysis, feature engineering, and statistical modeling</strong> to <strong>LLM applications, APIs, deployment, and monitoring</strong>.</p>
 
-<p><strong>Current growth areas:</strong> strengthening the full AI delivery lifecycle—from evaluating model quality, retrieval, fairness, and regressions, to applying those insights through practical guardrails and reusable, well-tested agent skills. I'm also deepening my foundations in Machine Learning Systems Implementation (MLSI), while advancing the observability, traceability, and cost-aware operations needed to run AI systems reliably at scale.</p>
+<blockquote>
+  <p>I approach AI as <strong>business infrastructure</strong>: solutions should fit real workflows and be <strong>secure, reliable, maintainable, and measurable</strong>. I'm especially interested in enterprise and healthcare, where <strong>privacy, access control, auditability, explainability, and human oversight</strong> matter.</p>
+</blockquote>
 
-<p>Open to Data Science, Machine Learning, and AI/ML Engineering opportunities building responsible, production-ready solutions.</p>
+<h3>Currently developing</h3>
+<ul>
+  <li>🧪 <strong>Evaluate & safeguard:</strong> assess model quality, retrieval, fairness, and regressions—and turn results into practical guardrails.</li>
+  <li>🧩 <strong>Build dependable agents:</strong> create reusable, well-tested agent skills for reliable workflows.</li>
+  <li>⚙️ <strong>Advance AI systems:</strong> deepen my knowledge of Machine Learning Systems Implementation (MLSI), parallel computing, and HPC for large-scale workloads.</li>
+  <li>📈 <strong>Operate at scale:</strong> strengthen observability, traceability, and cost-aware operations.</li>
+</ul>
+
+<p align="center"><strong>Open to Data Science, Machine Learning, and AI/ML Engineering opportunities</strong><br/>Building responsible, production-ready solutions.</p>
 
 ---
 
-<h1 align="center">My Relevant Skillsets</h1>
+<h1 align="center">Industry-Relevant Skillsets</h1>
 
-<h2 align="left">Programming Languages</h2>
+<h2 align="left">Programming Languages & Developer Tools</h2>
+<p>Core languages and tools for analysis, application development, and collaboration.</p>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
@@ -36,6 +47,7 @@
 </p>
 
 <h2 align="left">Backend & Frontend Development</h2>
+<p>Building APIs and interactive applications to deliver data and AI capabilities.</p>
 <p align="left">
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi" height="28"/></a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" height="28"/></a>
@@ -43,13 +55,15 @@
 </p>
 
 <h2 align="left">Data Engineering & Streaming</h2>
+<p>Data processing, workflow orchestration, and event-streaming technologies.</p>
 <p align="left">
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/></a>
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="airflow" width="40" height="40"/></a>
 </p>
 
-<h2 align="left">ML • DL • Computer Vision</h2>
+<h2 align="left">Data Science • ML • Deep Learning</h2>
+<p>Data preparation, statistical learning, model development, and computer vision.</p>
 <p align="left">
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
@@ -61,6 +75,7 @@
 </p>
 
 <h2 align="left">Databases</h2>
+<p>Relational, document, graph, and in-memory data stores.</p>
 <p align="left">
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
@@ -70,6 +85,7 @@
 </p>
 
 <h2 align="left">Cloud • MLOps • Infrastructure</h2>
+<p>Cloud platforms, reproducible infrastructure, containerization, CI/CD, and observability.</p>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
@@ -84,19 +100,19 @@
 </p>
 
 <h2 align="left">GenAI Stack</h2>
+<p>LLM applications, agent orchestration, retrieval-augmented generation, and vector search.</p>
 <p align="left">
   <a href="https://www.anthropic.com/claude" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logoColor=white" alt="claude" height="28"/></a>
-  <a href="https://www.anthropic.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logoColor=white" alt="anthropic" height="28"/></a>
   <a href="https://www.llama.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LLaMA-1C1E26?style=for-the-badge&logo=meta&logoColor=white" alt="llama" height="28"/></a>
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain" height="28"/></a>
   <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langgraph" height="28"/></a>
   <a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LlamaIndex-6E56CF?style=for-the-badge&logoColor=white" alt="llamaindex" height="28"/></a>
   <a href="https://www.crewai.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CrewAI-202020?style=for-the-badge&logoColor=white" alt="crewai" height="28"/></a>
   <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logoColor=white" alt="chromadb" height="28"/></a>
-  <a href="https://groq.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" alt="groq" height="28"/></a>
 </p>
 
 <h2 align="left">Visualization & Analytics</h2>
+<p>Communicating insights through business intelligence, statistical graphics, and geospatial analysis.</p>
 <p align="left">
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau" height="28"/></a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="matplotlib" height="28"/></a>
