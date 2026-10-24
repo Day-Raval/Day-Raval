@@ -38,7 +38,7 @@
 
 ---
 
-<h1 align="center">🧰 Skillsets</h1>
+<h1 align="center">🧰 Skillset</h1>
 
 <h2 align="left">💻 Programming Languages &amp; Developer Tools</h2>
 <p>Core tools for <strong>analysis, application development, and collaboration</strong>.</p>
