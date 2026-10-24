@@ -34,7 +34,7 @@
 
 <hr/>
 
-<p align="center">🤝 <strong>Open to Data Science, Machine Learning, and AI/ML Engineering opportunities</strong><br/>Let's build useful, responsible, production-ready technology. ✨</p>
+<p align="center">🤝 <strong>Open to Data Science, Machine Learning, and AI/ML Engineering opportunities</strong><br/>Let's build useful, responsible, impactful technology. ✨</p>
 
 ---
 
