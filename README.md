@@ -14,7 +14,7 @@
 <p align="center"><strong>📊 Data Science &nbsp;•&nbsp; 🤖 Machine Learning &nbsp;•&nbsp; ✨ Generative AI & LLMs  &nbsp;•&nbsp; 🧠 Agentic AI</strong></p>
 
 <h3>💡 What I bring</h3>
-<p>My work across <strong>📊 data science, 🤖 machine learning, ✨ generative AI, and 🧠 agentic AI engineering</strong> is grounded in hands-on internship experience: <strong>☁️ Kubernetes cost optimization</strong> at Aquila Clouds, <strong>🚘 scalable license plate recognition</strong> at Aunalytics, and <strong>📡 machine learning research for NetFlow burst detection</strong> at KORE. Together, these experiences shape how I turn real-world challenges into <strong>practical, reliable solutions</strong>.</p>
+<p>My work across <strong>data science, machine learning, generative AI, and agentic AI</strong> is grounded in hands-on internship experience: <strong>☁️ Kubernetes cost optimization</strong> at Aquila Clouds, <strong>🚘 scalable license plate recognition</strong> at Aunalytics, and <strong>📡 machine learning research for NetFlow burst detection</strong> at KORE. Together, these experiences shape how I turn real-world challenges into <strong>practical, reliable solutions</strong>.</p>
 
 <hr/>
 
