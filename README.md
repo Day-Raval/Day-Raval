@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dayesh Raval</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=900&lines=Data+Science+%26+Machine+Learning;Generative+AI+%26+LLMs;AI+%26+Agent+Engineering;ML+Systems+%26+MLOps" alt="Areas of focus: data science, machine learning, generative AI, agent engineering, and ML systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=900&lines=Data+Science+%26+Machine+Learning;Generative+AI+%26+LLMs;Agent+Engineering;ML+Systems+%26+MLOps" alt="Areas of focus: data science, machine learning, generative AI, agent engineering, and ML systems" />
 </p>
 
 <p align="center">
