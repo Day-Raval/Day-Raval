@@ -14,7 +14,7 @@
 <p align="center"><strong>📊 Data Science &nbsp;•&nbsp; 🤖 Machine Learning &nbsp;•&nbsp; ✨ Generative AI & LLMs  &nbsp;•&nbsp; 🧠 Agentic AI</strong></p>
 
 <h3>💡 What I bring</h3>
-<p>I'm a <strong>technology professional working across data science, machine learning, generative AI, and agentic AI engineering</strong>. I turn complex problems into <strong>actionable insights and useful products</strong>, combining analytics, statistical learning, and modern AI with the engineering needed to deliver applications, APIs, and reliable AI-powered agents.</p>
+<p>I'm a <strong>technology professional working across data science, machine learning, generative AI, and agentic AI engineering</strong>, with hands-on experience from internships in Kubernetes optimization and FinOps research at Aquila Clouds ☁️, scalable license plate recognition at Aunalytics 📊, and machine learning R&amp;D for network anomaly detection at KORE 🤖. These experiences strengthened my ability to apply analytical thinking and build practical data and AI solutions.</p>
 
 <hr/>
 
