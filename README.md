@@ -23,7 +23,7 @@
 <ul>
   <li>🧪 <strong>Evaluate & safeguard:</strong> assess model quality, retrieval, fairness, and regressions—and turn results into practical guardrails.</li>
   <li>🧩 <strong>Build dependable agents:</strong> create reusable, well-tested agent skills for reliable workflows.</li>
-  <li>⚙️ <strong>Advance AI systems:</strong> deepen my knowledge of Machine Learning Systems Implementation (MLSI), parallel computing, and HPC for large-scale workloads.</li>
+  <li>⚙️ <strong>Advance AI systems:</strong> deepen my knowledge of Machine Learning Systems Implementation (MLSI), and HPC for large-scale workloads.</li>
   <li>📈 <strong>Operate at scale:</strong> strengthen observability, traceability, and cost-aware operations.</li>
 </ul>
 
@@ -102,13 +102,12 @@
 <h2 align="left">GenAI Stack</h2>
 <p>LLM applications, agent orchestration, retrieval-augmented generation, and vector search.</p>
 <p align="left">
-  <a href="https://www.anthropic.com/claude" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logoColor=white" alt="claude" height="28"/></a>
-  <a href="https://www.llama.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LLaMA-1C1E26?style=for-the-badge&logo=meta&logoColor=white" alt="llama" height="28"/></a>
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain" height="28"/></a>
   <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langgraph" height="28"/></a>
   <a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LlamaIndex-6E56CF?style=for-the-badge&logoColor=white" alt="llamaindex" height="28"/></a>
   <a href="https://www.crewai.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CrewAI-202020?style=for-the-badge&logoColor=white" alt="crewai" height="28"/></a>
   <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logoColor=white" alt="chromadb" height="28"/></a>
+  <a href="https://www.langchain.com/langsmith" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langsmith" height="28"/></a>
 </p>
 
 <h2 align="left">Visualization & Analytics</h2>
