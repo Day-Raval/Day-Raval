@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dayesh Raval</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=900&lines=Data+Science+%26+Machine+Learning;Generative+AI+%26+LLMs;AI+Engineering;ML+Systems+%26+MLOps" alt="Areas of focus: data science, machine learning, generative AI, and ML systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=900&lines=Data+Science+%26+Machine+Learning;Generative+AI+%26+LLMs;AI+%26+Agent+Engineering;ML+Systems+%26+MLOps" alt="Areas of focus: data science, machine learning, generative AI, agent engineering, and ML systems" />
 </p>
 
 <p align="center">
@@ -11,15 +11,15 @@
 ---
 
 <h2 align="center">✨ About Me ✨</h2>
-<p align="center"><strong>📊 Data Science &nbsp;•&nbsp; 🤖 Machine Learning &nbsp;•&nbsp; 🛠️ AI Engineering</strong></p>
+<p align="center"><strong>📊 Data Science &nbsp;•&nbsp; 🤖 Machine Learning &nbsp;•&nbsp; 🛠️ AI &amp; Agent Engineering</strong></p>
 
 <h3>💡 What I bring</h3>
-<p>I'm a <strong>technology professional working across data science, machine learning, and AI engineering</strong>. I turn complex problems into <strong>actionable insights and useful products</strong>, combining analytics, statistical learning, and modern AI with the engineering needed to deliver solutions through applications, APIs, and production systems.</p>
+<p>I'm a <strong>technology professional working across data science, machine learning, AI, and agent engineering</strong>. I turn complex problems into <strong>actionable insights and useful products</strong>, combining analytics, statistical learning, and modern AI with the engineering needed to deliver applications, APIs, and reliable AI-powered agents.</p>
 
 <hr/>
 
 <h3>🧭 How I approach problems</h3>
-<p>I start with the <strong>problem, people, and business context</strong>, then apply the right mix of data science, machine learning, and AI. From analysis and predictive models to LLMs and agentic workflows, I aim to build solutions that fit real workflows and are <strong>reliable, secure, maintainable, and measurable</strong>. I value responsible design—including privacy, access control, explainability, and human oversight—especially in high-impact settings.</p>
+<p>I start with the <strong>problem, people, and business context</strong>, then apply the right mix of data science, machine learning, and AI. From analysis and predictive models to LLMs and agentic workflows, I engineer solutions that fit real workflows and are <strong>reliable, secure, maintainable, and measurable</strong>. I value responsible design—including privacy, access control, explainability, and human oversight—especially in high-impact settings.</p>
 
 <hr/>
 
@@ -27,7 +27,7 @@
 <p>I'm strengthening the full path from sound methods to dependable systems:</p>
 <ul>
   <li>🔬 <strong>Measure and improve:</strong> evaluate model quality, retrieval, fairness, and regressions; use evidence to guide practical safeguards.</li>
-  <li>🧩 <strong>Build useful intelligent workflows:</strong> develop reusable, well-tested agent skills and dependable tool-driven systems.</li>
+  <li>🧩 <strong>Practice agent engineering:</strong> build and evaluate useful agent workflows with dependable tools, clear guardrails, and thorough testing.</li>
   <li>⚙️ <strong>Scale the foundations:</strong> deepen my knowledge of Machine Learning Systems Implementation (MLSI), parallel computing, and HPC for large workloads.</li>
   <li>🚀 <strong>Deliver and operate well:</strong> strengthen observability, traceability, and cost-aware practices for reliable production systems.</li>
 </ul>
@@ -107,7 +107,7 @@
 </p>
 
 <h2 align="left">GenAI Stack</h2>
-<p>LLM applications, agent orchestration, retrieval-augmented generation, and vector search.</p>
+<p>LLM applications, agent engineering and orchestration, retrieval-augmented generation, and vector search.</p>
 <p align="left">
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain" height="28"/></a>
   <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langgraph" height="28"/></a>
