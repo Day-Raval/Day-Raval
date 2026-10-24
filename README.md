@@ -11,7 +11,7 @@
 ---
 
 <h2 align="center">✨ About Me ✨</h2>
-<p align="center"><strong>📊 Data Science &nbsp;•&nbsp; 🤖 Machine Learning &nbsp;•&nbsp; ✨ Generative AI &amp; Agentic AI</strong></p>
+<p align="center"><strong>📊 Data Science &nbsp;•&nbsp; 🤖 Machine Learning &nbsp;•&nbsp; ✨ Generative AI &nbsp;•&nbsp; 🧠 Agentic AI</strong></p>
 
 <h3>💡 What I bring</h3>
 <p>I'm a <strong>technology professional working across data science, machine learning, generative AI, and agentic AI engineering</strong>. I turn complex problems into <strong>actionable insights and useful products</strong>, combining analytics, statistical learning, and modern AI with the engineering needed to deliver applications, APIs, and reliable AI-powered agents.</p>
