@@ -13,18 +13,16 @@
 <h2 align="center">About Me</h2>
 <p align="center"><strong>Data Science&nbsp; • &nbsp;Machine Learning&nbsp; • &nbsp;AI Engineering</strong></p>
 
-<p>I'm a <strong>Data Science and AI/ML professional</strong> who turns complex data and emerging AI into <strong>reliable, useful solutions</strong>. My work spans the lifecycle—from <strong>analysis, feature engineering, and statistical modeling</strong> to <strong>LLM applications, APIs, deployment, and monitoring</strong>.</p>
+<p>I'm a <strong>technology professional</strong> who turns complex data and emerging technologies into <strong>actionable insights and dependable intelligent systems</strong>. My work spans the full lifecycle: <strong>data analysis, statistical modeling, feature engineering, and machine learning</strong>, through to <strong>generative AI, retrieval-augmented applications, APIs, deployment, and monitoring</strong>.</p>
 
-<blockquote>
-  <p>I approach AI as <strong>business infrastructure</strong>: solutions should fit real workflows and be <strong>secure, reliable, maintainable, and measurable</strong>. I'm especially interested in enterprise and healthcare, where <strong>privacy, access control, auditability, explainability, and human oversight</strong> matter.</p>
-</blockquote>
+<p>I approach AI as <strong>business infrastructure</strong>—designed to integrate with real workflows and meet the demands of <strong>reliability, security, maintainability, and measurable value</strong>. I'm especially interested in <strong>enterprise and healthcare AI</strong>, where privacy, access control, auditability, explainability, and human oversight are essential.</p>
 
-<h3>Currently developing</h3>
+<h3>Areas I'm advancing</h3>
 <ul>
-  <li>🧪 <strong>Evaluate & safeguard:</strong> assess model quality, retrieval, fairness, and regressions—and turn results into practical guardrails.</li>
-  <li>🧩 <strong>Build dependable agents:</strong> create reusable, well-tested agent skills for reliable workflows.</li>
-  <li>⚙️ <strong>Advance AI systems:</strong> deepen my knowledge of Machine Learning Systems Implementation (MLSI), and HPC for large-scale workloads.</li>
-  <li>📈 <strong>Operate at scale:</strong> strengthen observability, traceability, and cost-aware operations.</li>
+  <li>🧪 <strong>Evaluation & responsible AI:</strong> test model quality, retrieval, fairness, and regressions; translate findings into effective guardrails.</li>
+  <li>🧩 <strong>Agent engineering:</strong> build reusable, well-tested agent skills and reliable tool-driven workflows.</li>
+  <li>⚙️ <strong>ML systems & scale:</strong> deepen my expertise in Machine Learning Systems Implementation (MLSI), parallel computing, and HPC for large-scale AI workloads.</li>
+  <li>📈 <strong>Production operations:</strong> strengthen observability, traceability, and cost-aware practices for dependable AI systems.</li>
 </ul>
 
 <p align="center"><strong>Open to Data Science, Machine Learning, and AI/ML Engineering opportunities</strong><br/>Building responsible, production-ready solutions.</p>
